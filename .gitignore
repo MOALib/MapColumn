@@ -1,0 +1,5 @@
+html/
+latex/
+.vscode/
+.vscode/*
+*.exe
